@@ -1,0 +1,12 @@
+# 数据处理相关
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 可视化绘图相关
+matplotlib>=3.4.0
+
+# Excel文件保存相关
+openpyxl>=3.0.0
+
+# GUI界面相关（tkinter一般Python自带，无需额外安装，仅标注）
+# tkinter>=8.6
